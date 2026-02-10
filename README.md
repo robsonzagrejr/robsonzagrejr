@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### About Me
 
-I’m a ** Software Engineer | Python Backend Developer** and AI enthusiast.
+I’m a **Software Engineer | Python Backend Developer** and AI enthusiast.
 
 I had the opportunitie to work with: **ML**, **LLMs**, **ChatBots**, **Data**, **ETL**, **Pipelines** and others, and have some experiments with **Reinforcement Learning, Evolutionary Algorithms, Computer Vision and GAMES** :).  
 
