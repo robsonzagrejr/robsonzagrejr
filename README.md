@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I’m a ** Software Engineer | Python Backend Developer** and AI enthusiast.
 
-I had the opportunitie to work with: **ML**, **LLMs**, **chatBots**, **Data**, **ETL**, **Pipelines** and others, and have some experiments with **Reinforcement Learning, Evolutionary Algorithms, Computer Vision and GAMES** :).  
+I had the opportunitie to work with: **ML**, **LLMs**, **ChatBots**, **Data**, **ETL**, **Pipelines** and others, and have some experiments with **Reinforcement Learning, Evolutionary Algorithms, Computer Vision and GAMES** :).  
 
 I'm open to chat and to hear new ideas, please reach me on my email or linkedin \o/
 
