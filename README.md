@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ### Hi there, I’m Robson 👋  
 
-> Python Mage in constant training (Who is not?) | Finding solutions for problems   
+> Software Engineer Mage in constant training (Who is not?) | Finding solutions for problems   
 
 ---
 
 #### About Me
 
-I’m a **Python backend developer** and AI enthusiast.
+I’m a ** Software Engineer | Python Backend Developer** and AI enthusiast.
 
 I had the opportunitie to work with: **ML**, **LLMs**, **Data**, **ETL**, **Pipelines** and others, and have some experiments with **Reinforcement Learning, Evolutionary Algorithms, Computer Vision and GAMES** :).  
 
